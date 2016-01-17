@@ -11,6 +11,10 @@ import java.util.Properties;
 
 import static de.stphngrtz.helloflyway.tables.Author.AUTHOR;
 
+/**
+ * http://blog.jooq.org/2014/06/25/flyway-and-jooq-for-unbeatable-sql-development-productivity/
+ * https://github.com/jOOQ/jOOQ/tree/master/jOOQ-examples/jOOQ-spark-example
+ */
 public class Main {
 
     public static void main(String[] args) throws Exception {
